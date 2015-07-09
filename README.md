@@ -8,5 +8,10 @@ An extension to the KScale2 Kopernicus config that adds support to other planet 
 ### Acknowledgments
 [Paul Kingtiger](http://www.kingtiger.co.uk/kingtiger/wordpress/2015/06/24/kscale2-a-lightweight-mod-for-ksp/) for his work on KScale2
 
-### License
-Just as KScale2, this is released to the Public Domain.
+### Licenses
+* This project - Public Domain
+* KScale2 - Public Domain
+* Outer Planets Mod - CC BY-NC-SA 4.0
+* Trans-Keptunian - CC BY-NC-SA 4.0
+* Kopernicus - GNU GPL v3.0
+* ModuleManager - CC BY-SA 4.0
